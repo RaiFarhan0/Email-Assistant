@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Email Assistant Scheduled Meeting\nAttendees: Internshala
+DTEND:20240829T110000Z
+LOCATION:Virtual/Online
+DTSTART:20240829T100000Z
+SUMMARY:Creating Your First Server and Integrating APIs (Webinar)
+UID:8d359c6c-0805-4d7f-b3bd-12f34290e760@8d35.org
+END:VEVENT
+END:VCALENDAR

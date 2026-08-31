@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Email Assistant Scheduled Meeting\nAttendees: Alice
+DTEND:20260905T120000Z
+LOCATION:Virtual/Online
+DTSTART:20260905T110000Z
+SUMMARY:Product Strategy Review
+UID:98696f7f-c2e8-49ea-ae1b-e36a27e20632@9869.org
+END:VEVENT
+END:VCALENDAR

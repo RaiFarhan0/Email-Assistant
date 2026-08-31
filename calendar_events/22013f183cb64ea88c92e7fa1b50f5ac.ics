@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Email Assistant Scheduled Meeting\nAttendees: Rai Farhan\, Team Outskill
+DTEND:20260719T202000Z
+LOCATION:Virtual/Online
+DTSTART:20260719T192000Z
+SUMMARY:Claude & AI Mastermind - Day 1
+UID:c9169e51-39b9-48c2-925b-e5843ce9eb2b@c916.org
+END:VEVENT
+END:VCALENDAR

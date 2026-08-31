@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Email Assistant Scheduled Meeting\nAttendees: boss@company.com\, sarah@company.com
+DTEND:20260902T150000Z
+LOCATION:Conference Room B & Google Meet
+DTSTART:20260902T140000Z
+SUMMARY:Q4 Strategy Review
+UID:129c2d0c-25b5-46d0-a157-dfaaf2f6af8a@129c.org
+END:VEVENT
+END:VCALENDAR
