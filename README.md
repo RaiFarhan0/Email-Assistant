@@ -10,20 +10,6 @@
 
 ---
 
-## 📸 Screenshots
-
-<!-- Real UI assets can be dropped into the /docs folder -->
-
-| Inbox Dashboard & Triage | Detail View & Threading |
-| :---: | :---: |
-| ![Dashboard Screenshot](docs/screenshot-dashboard.png) | ![Detail View Screenshot](docs/screenshot-detail.png) |
-
-| AI Ghostwriter & Calendar Extraction | Chat With Inbox (RAG-Lite) |
-| :---: | :---: |
-| ![Calendar Screenshot](docs/screenshot-calendar.png) | ![Chat Screenshot](docs/screenshot-chat.png) |
-
----
-
 ## ✨ Features
 
 ### 🧠 Smart Inbox Triage & Classification
@@ -186,7 +172,6 @@ Email Assistant/
 │   ├── main.py                   # FastAPI application factory & lifespan
 │   └── models.py                 # Pydantic request/response schemas
 ├── calendar_events/              # Generated .ics calendar event storage
-├── docs/                         # Screenshots and visual documentation
 ├── frontend/
 │   ├── css/
 │   │   └── style.css             # Apple-inspired dark aesthetic stylesheet
